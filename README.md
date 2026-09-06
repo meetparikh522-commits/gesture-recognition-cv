@@ -38,7 +38,7 @@ A real-time hand gesture recognition system built with OpenCV and MediaPipe. It 
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/gesture-recognition-cv.git
+git clone https://github.com/meetparikh522-commits/gesture-recognition-cv.git
 cd gesture-recognition-cv
 
 # Create and activate a virtual environment (Python 3.11 recommended)
